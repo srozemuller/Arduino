@@ -21,6 +21,8 @@ See the [watersoftener.yaml](https://github.com/srozemuller/hassio-config/blob/m
 
 ![Sensor places on reservoir](https://user-images.githubusercontent.com/43162899/103166941-41cfe480-4827-11eb-99ed-6fc3b368702a.jpeg)
 
+#### Home-Assistant sensor setup
+https://github.com/srozemuller/hassio-config/blob/master/sensors/watersoftener.yaml
 
 #### Home-Assistant card setup
 ```yaml
